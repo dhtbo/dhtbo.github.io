@@ -1,0 +1,25 @@
+body {
+    background-color: #0F0E17;
+}
+
+.centerframe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header {
+    background-image: url('./confuse.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 730px;
+    height: 86px;
+    margin-bottom: 50px;
+}
+
+.base {
+    display: flex;
+    flex-direction: column;
+
+}
